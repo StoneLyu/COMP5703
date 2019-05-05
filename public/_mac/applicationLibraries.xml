@@ -1,0 +1,35 @@
+<application>
+  <component name="libraryTable">
+    <library name="export-data" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/WebstormProjects/COMP5703_Frontend_Template/js/http_code.highcharts.com_modules_export-data.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="exporting" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/WebstormProjects/COMP5703_Frontend_Template/js/http_code.highcharts.com_modules_exporting.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="highcharts" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/WebstormProjects/COMP5703_Frontend_Template/js/http_code.highcharts.com_highcharts.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery-3.1.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="1.1." />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/WebstormProjects/COMP5703_Frontend_Template/js/http_code.jquery.com_jquery-3.1.1.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+  </component>
+</application>
