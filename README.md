@@ -2,8 +2,6 @@
 
 AN ONLINE WEB-STREAMING SERVICE FOR BITCOIN EXCHANGES
 
-This project is the outcome of COMP5703. Here is the [demo](http://5703.stonelyu.com)
-
 ---
 
 ## Introduction
@@ -36,5 +34,7 @@ This application provides graphical interface including Bitcoin transaction info
     ```
 
 Remember to modify the data access APIs at line `210`, `317`, `1019` and `1053` in the [index.html](public/index.html) if the webpage cannot show graphs and tables correctly.
+
+If you still cannot get the correct page, please check whether you can access `*.google.com` because this project has invoked seceral APIs provided by Google.
 
 You can find an example `.json` file [here](public/all_data.json) whose data is extracted from the database.
